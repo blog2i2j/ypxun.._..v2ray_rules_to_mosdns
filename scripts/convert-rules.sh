@@ -21,6 +21,7 @@ categories=(
     "bahamut"
     "bilibili"
     "viu"
+    "category-porn"
 )
 
 # 清理并创建规则目录
